@@ -6,3 +6,4 @@ $ git commit -am "some comments"   // ???
 $ git push -u origin master        // uploads the changes to GitHub repository
 $ touch <name>                     // create new file if it dosen't exist
 $ rm <name>                        // remove <name>s file
+$ git checkout <branch>            // switch to a new branch
